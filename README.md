@@ -16,6 +16,7 @@ This repository showcases all the tests that were done on bitcoin core app durin
 
 ### Qualitative research
 #### User interviews
+[User Interviews report](https://github.com/mouxdesign/Bitcoin-Core-App-Research/issues/1#issue-2075249971)
 
 ### Quantitative research
 #### Node Survey
